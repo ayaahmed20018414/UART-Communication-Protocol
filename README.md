@@ -1,6 +1,6 @@
 # UART-Communication-Protocol
 
-                                                          **UART transmitter**
+                                                          **UART transmitter** __bold text__.
 ![image](https://github.com/ayaahmed20018414/UART-Communication-Protocol/assets/82789012/db99337b-5f1d-40af-a910-2fefa0205e53)
 A Universal Asynchronous Receiver/Transmitter (UART) is a block of circuitry responsible for implementing serial communication.UART is Full Duplex protocol (data transmission in both directions simultaneously).
 
